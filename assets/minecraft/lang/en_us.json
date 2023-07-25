@@ -37,6 +37,7 @@
 	"navigation_tool.structure.stronghold":"Stronghold",
 	"navigation_tool.structure.swamp_hut":"Witch Hut",
 	"navigation_tool.structure.ancient_city":"Ancient City",
+	"navigation_tool.structure.trail_ruins":"Trail Ruins",
 	"the_soul_catcher.uninstall":"The Soul Catcher Datapack is uninstalled, to re-enable it type : %s.",
 	"the_soul_catcher.item":"Soul Catcher",
 	"the_soul_catcher.lore":"Works on calm animals",
