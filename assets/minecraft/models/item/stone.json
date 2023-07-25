@@ -1,0 +1,13 @@
+{
+    "parent": "minecraft:block/stone", 
+    
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 7788004
+            },
+            "model": "item/workbench/ui_texture"
+        }
+        
+    ]
+}

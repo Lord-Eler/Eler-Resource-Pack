@@ -1,0 +1,95 @@
+{
+    "parent": "minecraft:item/handheld_rod",
+    "textures": {
+        "layer0": "item/warped_fungus_on_a_stick"
+    },
+    
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 778601
+            },
+            "model": "item/misc/wizard_hat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 778900000
+            },
+            "model": "item/wands/default_wand"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 778901011
+            },
+            "model": "item/wands/oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 778902011
+            },
+            "model": "item/wands/spruce"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 778903011
+            },
+            "model": "item/wands/birch"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 778904011
+            },
+            "model": "item/wands/dark_oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 778905011
+            },
+            "model": "item/wands/acacia"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 778906011
+            },
+            "model": "item/wands/jungle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 778907011
+            },
+            "model": "item/wands/mangrove"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 778908011
+            },
+            "model": "item/wands/crimson"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 778909011
+            },
+            "model": "item/wands/warped"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 778910011
+            },
+            "model": "item/wands/bamboo"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 778911011
+            },
+            "model": "item/wands/cherry"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 778912011
+            },
+            "model": "item/wands/chorus"
+        }
+        
+        
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "parent": "minecraft:block/barrel", 
+    
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 77888002
+            },
+            "model": "item/workbench/workbench"
+        }
+        
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/template_spawn_egg",
+    
+    
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 7787002
+            },
+            "model": "item/broomstick/broomstick"
+        }
+        
+    ]
+}

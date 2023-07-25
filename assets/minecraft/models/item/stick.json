@@ -1,0 +1,16 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "item/stick"
+    },
+    
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 7787002
+            },
+            "model": "item/broomstick/broomstick"
+        }
+        
+    ]
+}

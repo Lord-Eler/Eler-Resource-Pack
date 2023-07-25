@@ -1,0 +1,16 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "item/iron_nugget"
+    },
+    
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data":7788003 
+            },
+            "model": "item/workbench/bottle_of_power"
+        }
+        
+    ]
+}

@@ -51,5 +51,24 @@
 	"the_soul_catcher.advancement2_desc":"Capturez tous les animaux dans des Attrapes-Âmes.",
 	"the_soul_catcher.fhelp":"Vous jouez avec le datapack The Soul Catcher de Lord_Eler. Entrez %s pour ouvrir l'aide.",
 
-	"the_soul_catcher.help":"Jetez un diamant sur un bloc d'obsidienne pleureuse et posez un bloc de verre dessus pour construire un autel. Pour obtenir un Attrape-Âme, activez l'autel en vous accroupissant (%s) ou entrez la commande : %s. Pour utiliser l'Attrape-Âme, jetez-le (%s) sur un animal qui n'est pas aggressif et qui n'a pas été blessé par un joueur récemment. Jetez l'Attrape-Âme encore une fois pour libérer l'animal. Accroupissez-vous pour jeter l'Attrape-Âme sans l'activer. Les distributeurs peuvent aussi utiliser les Attrapes-Âmes. Désinstallez le datapack en entrant : %s."
+	"the_soul_catcher.help":"Jetez un diamant sur un bloc d'obsidienne pleureuse et posez un bloc de verre dessus pour construire un autel. Pour obtenir un Attrape-Âme, activez l'autel en vous accroupissant (%s) ou entrez la commande : %s. Pour utiliser l'Attrape-Âme, jetez-le (%s) sur un animal qui n'est pas aggressif et qui n'a pas été blessé par un joueur récemment. Jetez l'Attrape-Âme encore une fois pour libérer l'animal. Accroupissez-vous pour jeter l'Attrape-Âme sans l'activer. Les distributeurs peuvent aussi utiliser les Attrapes-Âmes. Désinstallez le datapack en entrant : %s.",
+
+	"magicraft.magicraft":"Magicraft",
+    "magicraft.workbench":"Établi à baguettes",
+    "magicraft.wizard_hat":"Chapeau de sorcier",
+    "magicraft.bottle_of_power":"Fiole de pouvoir",
+    "magicraft.wand":"Baguette magique",
+    "magicraft.broom_handle":"Manche de balai",
+    "magicraft.broomstick":"Balai volant",
+    "magicraft.ui_texture":"",
+    "magicraft.cooldown":"Régénération magique",
+    "magicraft.scroll":"Parchemin %s",
+    "magicraft.scroll.desert":"du Désert",
+    "magicraft.scroll.ancient":"des Profondeurs",
+    "magicraft.scroll.dark":"des Secrets",
+    "magicraft.scroll.jungle":"des Arbres",
+    "magicraft.scroll.ruin":"du Passé",
+    "magicraft.scroll.ocean":"de la Mer",
+    "magicraft.scroll.igloo":"du Froid",
+    "magicraft.scroll.swamp":"des Marais"
 }

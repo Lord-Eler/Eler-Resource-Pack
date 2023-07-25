@@ -51,5 +51,25 @@
 	"the_soul_catcher.advancement2_desc":"Catch all species in Soul Catchers.",
 	"the_soul_catcher.fhelp":"You play with Lord_Eler's Soul Catcher Datapack. Type %s to open the help panel.",
 
-	"the_soul_catcher.help":"Throw a diamond on a crying obsidian block and put a glass block on top of it to build an altar. To get a Soul Catcher, enable the altar by sneaking (%s) or type : %s. To use the Soul Catcher, throw it (%s) on an animal that is not aggressive and has not been injured by a player recently. Throw the Soul Catcher once again to release the animal. Sneak to throw a Soul Catcher without activating it. Dispensers can also use Soul Catchers. Type : %s to uninstall the datapack."
+	"the_soul_catcher.help":"Throw a diamond on a crying obsidian block and put a glass block on top of it to build an altar. To get a Soul Catcher, enable the altar by sneaking (%s) or type : %s. To use the Soul Catcher, throw it (%s) on an animal that is not aggressive and has not been injured by a player recently. Throw the Soul Catcher once again to release the animal. Sneak to throw a Soul Catcher without activating it. Dispensers can also use Soul Catchers. Type : %s to uninstall the datapack.",
+
+
+	"magicraft.magicraft":"Magicraft",
+    "magicraft.workbench":"Wand workbench",
+    "magicraft.wizard_hat":"Wizard hat",
+    "magicraft.bottle_of_power":"Bottle of power",
+    "magicraft.wand":"Wand",
+    "magicraft.broom_handle":"Broom handle",
+    "magicraft.broomstick":"Broomstick",
+    "magicraft.ui_texture":"",
+    "magicraft.cooldown":"Spell cooldown",
+    "magicraft.scroll":"Scroll %s",
+    "magicraft.scroll.desert":"of the Sands",
+    "magicraft.scroll.ancient":"of the Depths",
+    "magicraft.scroll.dark":"of the Darkness",
+    "magicraft.scroll.jungle":"of the Trees",
+    "magicraft.scroll.ruin":"of the Past",
+    "magicraft.scroll.ocean":"of the Sea",
+    "magicraft.scroll.igloo":"of the Frost",
+    "magicraft.scroll.swamp":"of the Bog"
 }
