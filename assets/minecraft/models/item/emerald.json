@@ -1,0 +1,21 @@
+{
+    "parent": "item/generated", 
+    "textures": {
+        "layer0": "item/emerald"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 456852
+            },
+            "model": "item/soul_catcher/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 456853
+            },
+            "model": "item/soul_catcher/2"
+        }
+        
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "parent": "block/cube_all", 
+    "textures": {
+        "all": "block/glass"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 7531590
+            },
+            "model": "item/altar_sc/0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7531591
+            },
+            "model": "item/altar_sc/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7531592
+            },
+            "model": "item/altar_sc/2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7531593
+            },
+            "model": "item/altar_sc/3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7531594
+            },
+            "model": "item/altar_sc/4"
+        }
+        
+    ]
+}
